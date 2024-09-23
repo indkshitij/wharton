@@ -1,0 +1,14 @@
+input{
+    border: 1px solid grey;
+    border-radius: 3px;
+    padding: 1vh 0.5vw;
+    color: rgb(78, 78, 78);
+}
+.btn:hover{
+    background-color: lightskyblue;
+    border: none;
+}
+.errors{
+    margin-top: 0.5vh;
+    font-size: 0.7rem;
+}
